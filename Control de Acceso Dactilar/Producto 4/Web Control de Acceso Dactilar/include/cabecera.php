@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+</br></br><h1 class="span" align="center"><font color= "green">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Panel de Control de Acceso Dactilar</h1></font></br></br></br></br></br>
